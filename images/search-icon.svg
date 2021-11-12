@@ -1,0 +1,18 @@
+<svg id="search_button" data-name="search button" xmlns="http://www.w3.org/2000/svg" width="60.375" height="63.375" viewBox="0 0 20.125 21.125">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 2.25px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="11" cy="9.125" r="8"/>
+  <path id="Rounded_Rectangle_1_copy_3" data-name="Rounded Rectangle 1 copy 3" class="cls-2" d="M233.1,95.392l5.3-5.3a1.338,1.338,0,0,1,1.513,1.513l-5.3,5.3A1.337,1.337,0,0,1,233.1,95.392Z" transform="translate(-233 -75.875)"/>
+</svg>
